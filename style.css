@@ -43,6 +43,14 @@ main header{
     display: flex;
     justify-content: center;
 }
+main h1{
+    width: 100%;
+
+    margin-top: 2%;
+
+    display: flex;
+    justify-content: center;
+}
 main header img{
     width: 15%;
 }
